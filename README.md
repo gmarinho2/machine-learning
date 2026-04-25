@@ -1,4 +1,4 @@
-I use this repository for the machine learning programming problems and to play with machine learning ideas from the Deep Learning book.
+I use this repository for the neetcode machine learning course and to play with machine learning ideas from the Deep Learning book.
 
 ## Project Structure
 
